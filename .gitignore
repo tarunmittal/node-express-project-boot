@@ -1,0 +1,13 @@
+.idea/*
+dump.rdb
+node_modules/*
+coverage.html
+.DS_STORE
+.idea/
+FitService.iml
+.DS_Store
+*.iml
+package-lock.json
+.vscode/
+local_properties.js
+.env
